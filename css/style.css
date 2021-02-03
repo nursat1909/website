@@ -29,7 +29,7 @@ body {
       background-color: #9ddfd3;
       margin-top: 0;
       padding: 10px;
-
+      
 }
 
 .knowledge{
@@ -46,4 +46,13 @@ body {
 
 .unorder{
   width: 270px;
+}
+
+.body2{
+  font-family: 'Yusei Magic';
+}
+
+.aboutmetext {
+  margin-left: 400px;
+  margin-right: 400px;
 }
